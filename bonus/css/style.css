@@ -68,3 +68,8 @@
     background-color: #2D2B1C;
 }
 
+@media screen and (max-width: 768px) {
+    .bg-green {
+        background-color: #004FFF;
+    }
+}
