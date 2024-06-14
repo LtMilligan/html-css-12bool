@@ -50,6 +50,10 @@
     margin-bottom: 30px;
 }
 
+.container:hover .bg-green {
+    background-color: rgb(189, 0, 0);
+}
+
 /* BACKGROUND COLOR */
 
 .bg-blue {
