@@ -5,7 +5,7 @@
 }
 
 .container {
-    width: 1600px;
+    width: 100svw;
     margin: 0 auto;
 }
 
@@ -32,7 +32,7 @@
 
 .content-bonus {
     /* border: 1px solid black; */
-    height: 100px;
+    height: calc(100svw / 16);
 }
 
 .inner-content {
